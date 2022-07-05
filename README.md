@@ -1,3 +1,4 @@
+# I used the shopify-sanity hydrogen app demo for my virtual fits demo store ↓
 # AKVA - An example storefront powered by Sanity + Hydrogen
 
 This demo is compatible with `@shopify/hydrogen ~= 1.0.0`
